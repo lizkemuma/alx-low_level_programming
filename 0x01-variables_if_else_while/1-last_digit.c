@@ -1,14 +1,20 @@
-#include <stdio.h>
+nclude <stdio.h>
+
 #include <stdlib.h>
+
 #include <time.h>
+
+
+
 /**
- * main - finds the last int in a random number
  *
- * Description: The numbers are generated automatically
+ *  * main - finds the last int in a random number
  *
- * Return: Always(0) Success
+ *   * Description: The numbers are generated automatically
  *
- */
+ *    * Return: Always(0) Success
+ *
+ *     */
 
 
 
@@ -32,8 +38,8 @@ int main(void)
 
 									{
 
-												printf("greater than 5\n");
-                 
+												printf("grater than 5\n");
+
 													}
 
 								else if (last_digit  == 0)
