@@ -32,8 +32,8 @@ int main(void)
 
 									{
 
-												printf("grater than 5\n");
-
+												printf("greater than 5\n");
+                 
 													}
 
 								else if (last_digit  == 0)
